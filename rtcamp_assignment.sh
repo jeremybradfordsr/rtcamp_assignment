@@ -38,7 +38,7 @@ while true; do
       then
         echo "Please enter FQDN name of host"
       else
-         echo "bad"
+         echo "ok"
          break
     fi
 done
